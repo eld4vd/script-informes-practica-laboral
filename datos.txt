@@ -1,0 +1,27 @@
+ACTIVIDADES.-
+Es el detalle de tareas realizadas durante la jornada laboral.
+-	Se documenta una tarea por fila.
+-	Cada actividad se especifica como un adjetivo. Ej: “Revisión de cableado estructurado en Data Center”
+-	Deben indicar la totalidad de actividades realizadas durante la jornada.
+
+
+HABILIDADES APRENDIDAS Y/O UTILIZADAS 
+Es el campo donde se indica qué conocimientos y habilidades aprendidos y generados durante sus estudios en la carrera, se han utilizado para poder realizar esta actividad. Ej: “Normativas de cableado IEEE802.3”; “Análisis down – top en función a modelo OSI”.
+-	Por otra parte, en caso de haber aprendido algo se debe especificar qué de nuevo (habilidad, conocimiento, técnica) se ha aprendido al realizar esa actividad.
+
+
+DIFICULTADES PRESENTADAS / SUPERADAS 
+Especificar qué dificultades, problemas o inconvenientes se pudieron presentar al momento de realizar la actividad.
+-	Se entiende como inconveniente o dificultad, como cualquier situación de diferentes orígenes que hayan podido dificultar o poner en riesgo la correcta conclusión de la actividad planteada.
+-	No necesariamente se han tenido que presentar inconvenientes o escenarios negativos para cada actividad, por lo que si no hay nada que documentar completan con la palabra: “Ninguna.”
+-	Ej: “Falta de información y documentación previa de la anterior instalación de red”.
+
+
+
+RESULTADOS ALCANZADOS 
+-Es el detalle de resultados concretos obtenidos luego de haber realizado la actividad.
+-Cada resultado debe especificarse de forma cualitativa o cuantitativa; es decir, se debe especificar el grado de éxito con el que se ha realizado la actividad y definir el nivel de calidad del trabajo, además de algún dato de cantidad si es necesario.
+-Ej: “Diagrama de topología física de red actualizado, con un nivel de precisión del 95%.”; “Instalación de 8 puntos de red de acceso para nuevo persona”.l
+
+
+
